@@ -1,0 +1,11 @@
+{
+  "name": "rainfame",
+  "owner": { "name": "Rainfame Technologies Ltd", "email": "founder@rainfame.tech" },
+  "plugins": [
+    {
+      "name": "rainfame-craft-lite",
+      "source": "./plugins/rainfame-craft-lite",
+      "description": "Free design standard skill: make app screens feel crafted, not AI-generic."
+    }
+  ]
+}
