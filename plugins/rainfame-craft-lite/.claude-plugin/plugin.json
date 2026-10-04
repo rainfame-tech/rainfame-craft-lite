@@ -1,0 +1,9 @@
+{
+  "name": "rainfame-craft-lite",
+  "version": "1.0.0",
+  "description": "Free: write and apply a testable design standard so app screens feel crafted, not AI-generic. Built on NN/g, Apple HIG, Material 3, Laws of UX and WCAG 2.2.",
+  "author": { "name": "Rainfame Technologies Ltd", "email": "founder@rainfame.tech" },
+  "homepage": "https://rainfame.store/pages/craft-audit",
+  "license": "CC-BY-4.0",
+  "keywords": ["ux", "ui", "design", "design system", "accessibility", "wcag"]
+}
